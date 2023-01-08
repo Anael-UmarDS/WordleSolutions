@@ -1,6 +1,7 @@
 # WordleSolutions
 
 Objective
+
 The program, Wordle Solution, is inspired by Wordle created by The New York Times. In Wordle, the main goal is to guess a word in 6 tries. This can be hard for some users which is why this program is created.
 The program helps users by giving a list of possible solutions from Dictionary.txt for the Wordle from user inputs.
 1. Users provide characters that are in **known positions** in a 5 letter word
