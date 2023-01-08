@@ -7,7 +7,7 @@ The program helps users by giving a list of possible solutions from Dictionary.t
 2. Users can also provide or not provide characters that may be in **any position** in the 5 letter word
 3. Users can also provide or not provide characters that needs to be **excluded** from the word
 
-#Procedures and Lists
+Procedures and Lists
 Procedures:
 
 There are 3 procedures involved in this program.
